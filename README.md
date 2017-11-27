@@ -1,3 +1,3 @@
 # exercism
 
-My exercises with [exercism](http://exercism.io)
+My program exercises with [exercism](http://exercism.io)
